@@ -27,7 +27,7 @@ Software engineer and full-stack developer who graduated from CodingDojo's onlin
 #### &ensp; (Python, Flask, MySQL)
 &ensp; Movie quote guessing game where a random movie quote is generated and the user has to guess the movie it's from.
 - created a function to perform string sanitization to make the user guessing experience more forgiving
-- used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api (it takes a few seconds)
+- used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api (it's not a super fast api)
 
 ---
 
