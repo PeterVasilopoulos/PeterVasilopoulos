@@ -35,7 +35,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 
 # Languages and Tools
 
-### 🗺️ Languages:
+### 🔠 Languages:
 Python, Java, JavaScript, HTML, CSS, SQL
 
 ### 📚 Frameworks/Libraries:
