@@ -1,4 +1,6 @@
-## Peter Vasilopoulos
+---
+
+# Peter Vasilopoulos
 Software engineer and full-stack developer who graduated from CodingDojo's online full-stack software development program in 06/2023. Graduated from Vigrinia Tech with a BIT degree in 05/2022.
 ### Hobbies
 - 📽 watching movies
@@ -6,12 +8,28 @@ Software engineer and full-stack developer who graduated from CodingDojo's onlin
 - 🏃🏼 parkour
 - 📖 reading books
 
-## Projects
-Java <br>
-&ensp; Java Springboot application
+---
 
+# Projects
+## The Film Repository 
+#### &ensp; (JavaScript, React, MongoDB, Node.js, Express)
+&ensp; Movie database site that allows users to search for movies, write reviews, and view other user's reviews.
+- leveraged React use state and use effect to create a responsive site that can update to user searches without reloading
+- movie information pulled from TMDB api to attain accurate and up-to-date information
 
-## Languages and Tools
+## The Book Club
+#### &ensp; (Java, SpringBoot, MySQL)
+&ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
+- full 
+
+## Don't Quote Me On This
+#### &ensp; (Python, Flask, MySQL)
+&ensp; Movie quote guessing game where a random movie quote is generated and the user has to guess the movie it's from.
+- things about app
+
+---
+
+# Languages and Tools
 <picture>
   <img alt="Technology Logos" src="https://i.imgur.com/SgBn3j2.png">
 </picture>
