@@ -38,6 +38,11 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 - used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api (it's not a very fast api)
 
 <div align="center" width="50">
+
+  ### Gif
+
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-70669f5649.gif" width="65%">
+
   
   ### Demo Video
   
