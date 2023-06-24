@@ -36,6 +36,9 @@ Software engineer and full-stack developer who graduated from CodingDojo's onlin
 **Frameworks/Libraries:** Flask, Jinja2, jQuery, React, Express, Bootstrap <br>
 **Databases:** MySQL, MongoDB <br>
 **Tools:** AJAX, Microsoft Azure, Visual Studio, Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, Github, Excel, Powerpoint, Agile Development, OOP
+
+<br>
+
 <picture>
   <img alt="Technology Logos" src="https://i.imgur.com/SgBn3j2.png">
 </picture>
