@@ -34,10 +34,18 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ---
 
 # Languages and Tools
-**Languages:** Python, Java, JavaScript, HTML, CSS, SQL <br>
-**Frameworks/Libraries:** Flask, Jinja2, jQuery, React, Express, Bootstrap <br>
-**Databases:** MySQL, MongoDB <br>
-**Tools:** AJAX, Microsoft Azure, Visual Studio, Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, Github, Excel, Powerpoint, Agile Development, OOP
+
+### Languages:
+Python, Java, JavaScript, HTML, CSS, SQL
+
+### Frameworks/Libraries:
+Flask, Jinja2, jQuery, React, Express, Bootstrap
+
+### Databases:
+MySQL, MongoDB
+
+### Tools:
+AJAX, Microsoft Azure, Visual Studio, Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, Github, Excel, Powerpoint, Agile Development, OOP
 
 <br>
 
