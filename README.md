@@ -10,7 +10,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 - ### 📺 [Youtube](https://www.youtube.com/channel/UC2yxePTUqzDrn5Mw7CjFdxA)
 - ### 📓 [Medium](https://medium.com/@petervasilopoulos)
 
-### Hobbies
+## Hobbies
 - 📽 watching movies
 - 🏞 hiking
 - 🏃🏼 parkour
