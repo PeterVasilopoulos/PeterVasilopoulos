@@ -4,6 +4,11 @@
 ### Software Engineer and Full-Stack Developer <br>
 Graduated from CodingDojo's online full-stack software development program in 06/2023 <br>
 Graduated from Vigrinia Tech with a BIT degree in 05/2022 
+
+### Social Links
+- 🌎 [LinkedIn](https://www.linkedin.com/in/petervasilopoulos/)
+- 📓 [Medium](https://medium.com/@petervasilopoulos)
+
 ### Hobbies
 - 📽 watching movies
 - 🏞 hiking
