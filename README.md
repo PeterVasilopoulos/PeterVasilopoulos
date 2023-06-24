@@ -29,7 +29,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ## The Book Club
 #### &ensp; (Java, SpringBoot, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
-- full 
+- project info
 
 ## Don't Quote Me On This &ensp; ([Video](https://www.youtube.com/watch?v=ngi94hN5LOU))
 #### &ensp; (Python, Flask, MySQL)
