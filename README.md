@@ -44,7 +44,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
   <img src="https://im4.ezgif.com/tmp/ezgif-4-70669f5649.gif" width="65%">
 
   
-  ### Demo Video
+  ### Full Video
   
   [<img src="https://i.ytimg.com/vi/ngi94hN5LOU/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=ngi94hN5LOU "Project Demo")
 
