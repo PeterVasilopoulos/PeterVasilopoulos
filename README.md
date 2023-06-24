@@ -13,7 +13,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ---
 
 # Projects
-## The Film Repository 
+## The Film Repository ([Medium](https://medium.com/@petervasilopoulos))
 #### &ensp; (JavaScript, React, MongoDB, Node.js, Express)
 &ensp; Movie database site that allows users to search for movies, write reviews, and view other user's reviews.
 - leveraged React use state and use effect to create a responsive site that can update to user searches without reloading
@@ -35,16 +35,16 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 
 # Languages and Tools
 
-### Languages:
+### 🗺️ Languages:
 Python, Java, JavaScript, HTML, CSS, SQL
 
-### Frameworks/Libraries:
+### 📚 Frameworks/Libraries:
 Flask, Jinja2, jQuery, React, Express, Bootstrap
 
-### Databases:
+### 🗂️ Databases:
 MySQL, MongoDB
 
-### Tools:
+### 🛠️ Tools:
 AJAX, Microsoft Azure, Visual Studio, Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, Github, Excel, Powerpoint, Agile Development, OOP
 
 <br>
