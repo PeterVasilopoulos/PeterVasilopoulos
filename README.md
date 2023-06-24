@@ -64,9 +64,11 @@ AJAX, Microsoft Azure, Visual Studio, Visual Studio Code, Eclipse, Spring Tool S
 
 <br>
 
-<picture>
-  <img alt="Technology Logos" src="https://i.imgur.com/SgBn3j2.png">
-</picture>
+<div align="center">
+
+  <img width="75%" alt="Technology Logos" src="https://i.imgur.com/SgBn3j2.png">
+  
+</div>
 
 <!---
 PeterVasilopoulos/PeterVasilopoulos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
