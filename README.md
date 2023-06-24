@@ -37,6 +37,8 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 - created a function to perform string sanitization to make the user guessing experience more forgiving
 - used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api (it's not a very fast api)
 
+[![Video](https://img.youtube.com/vi/https:/ngi94hN5LOU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ngi94hN5LOU)
+
 ---
 
 # Languages and Tools
