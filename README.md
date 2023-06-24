@@ -15,6 +15,7 @@ Software engineer and full-stack developer who graduated from CodingDojo's onlin
 #### &ensp; (JavaScript, React, MongoDB, Node.js, Express)
 &ensp; Movie database site that allows users to search for movies, write reviews, and view other user's reviews.
 - leveraged React use state and use effect to create a responsive site that can update to user searches without reloading
+- utilized BCrypt to create a more secure user experience by hashing passwords before storing them in the database
 - movie information pulled from TMDB api to attain accurate and up-to-date information
 
 ## The Book Club
@@ -25,7 +26,7 @@ Software engineer and full-stack developer who graduated from CodingDojo's onlin
 ## Don't Quote Me On This
 #### &ensp; (Python, Flask, MySQL)
 &ensp; Movie quote guessing game where a random movie quote is generated and the user has to guess the movie it's from.
-- things about app
+- created a function to perform string sanitization to make the user guessing experience more forgiving
 
 ---
 
