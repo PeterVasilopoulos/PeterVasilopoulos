@@ -26,6 +26,14 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 - utilized BCrypt to create a more secure user experience by hashing passwords before storing them in the database
 - movie information pulled from TMDB api so users can rely on accurate and up-to-date information
 
+<div align="center" width="50">
+
+  ### API Calls Video
+
+  [<img src="https://i.ytimg.com/vi/pyDZ3DFH6-I/maxresdefault.jpg" width="40%">](https://www.youtube.com/watch?v=pyDZ3DFH6-I "API Calls Demo")
+  
+</div>
+
 ## The Book Club
 #### &ensp; 🧰 (Java, SpringBoot, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
