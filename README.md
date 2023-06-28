@@ -19,7 +19,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ---
 
 # Projects
-## The Film Repository &ensp; ([Medium](https://medium.com/@petervasilopoulos) | [Repo](https://github.com/PeterVasilopoulos/Movie_Review_Site))
+## The Film Repository &ensp; ([Videos](https://www.youtube.com/playlist?list=PLjO3X1MvwUsDc1pR3fzRG-FKQZNiPS24j) | [Medium](https://medium.com/@petervasilopoulos) | [Repo](https://github.com/PeterVasilopoulos/Movie_Review_Site))
 #### &ensp; 🧰 (JavaScript, React, MongoDB, Node.js, Express)
 &ensp; Movie database site that allows users to search for movies, write reviews, and view other user's reviews.
 - leveraged React use state and use effect to create a responsive site that can update to user searches without reloading
