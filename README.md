@@ -42,10 +42,11 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ## The Book Club
 #### &ensp; 🧰 (Java, SpringBoot, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
-- full CRUD application
+- full CRUD application where users can:
     - add books to their bookshelf
-    - write thoughts on books
-    - view other user's books and thoughts
+    - write reviews on books
+    - edit and delete individual reviews
+    - view other user's books and reviews
 - login and validation done with 
 
 ## Don't Quote Me On This &ensp; ([Video](https://www.youtube.com/watch?v=ngi94hN5LOU) | [Medium](https://medium.com/@petervasilopoulos/dont-quote-me-on-this-python-project-15324eb3e803)) 
