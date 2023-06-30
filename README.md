@@ -25,7 +25,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 - leveraged React use state and use effect to create a responsive site that can update to user searches without reloading
 - utilized BCrypt to create a more secure user experience by hashing passwords before storing them in the database
 - movie information pulled from TMDB api so users can rely on accurate and up-to-date information
-- login/registration authentication and validation done with iron-session
+- login/registration authentication and validation implemented using iron-session
 
 <div align="center" width="50">
 
