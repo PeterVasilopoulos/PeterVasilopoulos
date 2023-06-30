@@ -25,6 +25,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 - leveraged React use state and use effect to create a responsive site that can update to user searches without reloading
 - utilized BCrypt to create a more secure user experience by hashing passwords before storing them in the database
 - movie information pulled from TMDB api so users can rely on accurate and up-to-date information
+- login/registration authentication and validation done with iron-session
 
 <div align="center" width="50">
 
@@ -41,7 +42,11 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ## The Book Club
 #### &ensp; 🧰 (Java, SpringBoot, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
-- project info
+- full CRUD application
+    - add books to their bookshelf
+    - write thoughts on books
+    - view other user's books and thoughts
+- login and validation done with 
 
 ## Don't Quote Me On This &ensp; ([Video](https://www.youtube.com/watch?v=ngi94hN5LOU) | [Medium](https://medium.com/@petervasilopoulos/dont-quote-me-on-this-python-project-15324eb3e803)) 
 #### &ensp; 🧰 (Python, Flask, MySQL)
