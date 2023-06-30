@@ -47,7 +47,6 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
     - write reviews on books
     - edit and delete individual reviews
     - view other user's books and reviews
-- login and validation done with 
 
 ## Don't Quote Me On This &ensp; ([Video](https://www.youtube.com/watch?v=ngi94hN5LOU) | [Medium](https://medium.com/@petervasilopoulos/dont-quote-me-on-this-python-project-15324eb3e803)) 
 #### &ensp; 🧰 (Python, Flask, MySQL)
