@@ -61,6 +61,8 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 ## The Book Club
 #### &ensp; 🧰 (Java, SpringBoot, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
+- designed the wireframe and user stories using Balsamiq and GitHub Projects respectively for efficient site development
+- capitalized on Bootstrap to quickly spin up an aesthetic front-end and user friendly front-end
 - full CRUD application where users can:
     - add books to their bookshelf
     - write reviews on books
