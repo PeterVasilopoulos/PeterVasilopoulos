@@ -59,7 +59,7 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 </div>
 
 ## The Book Club
-#### &ensp; 🧰 (Java, SpringBoot, MySQL)
+#### &ensp; 🧰 (Java, Spring Boot, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
 - designed the wireframe and user stories using Balsamiq and GitHub Projects respectively for efficient site development
 - capitalized on Bootstrap to quickly spin up an aesthetic front-end and user friendly front-end
@@ -78,13 +78,13 @@ Graduated from Vigrinia Tech with a BIT degree in 05/2022
 Python, Java, JavaScript, HTML, CSS, SQL
 
 ### 📚 Frameworks/Libraries:
-Flask, Jinja2, jQuery, React, Express, Bootstrap
+Flask, Jinja2, jQuery, React, Express, Bootstrap, Spring Boot
 
 ### 🗂️ Databases:
 MySQL, MongoDB
 
 ### 🛠️ Tools:
-AJAX, Microsoft Azure, Visual Studio, Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, Github, Excel, Powerpoint, Agile Development, OOP
+AJAX, Microsoft Azure, Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, GitHub, Microsoft Excel, Microsoft Powerpoint, Agile Development, Object Oriented Programming, Node.js, AWS, PHP, JSON, Mongoose, Trello, Postman, Jira
 
 <br>
 
