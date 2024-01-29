@@ -2,8 +2,8 @@
 
 # Peter Vasilopoulos
 ### Software Engineer and Full-Stack Developer <br>
-Graduated from CodingDojo's online full-stack software development program in 06/2023 <br>
-Graduated from Vigrinia Tech with a Business Information Technology degree in 05/2022 
+Graduated from CodingDojo's Online Full-Stack Software Development Program 06/2023 <br>
+Graduated from Vigrinia Tech with a Bachelor of Science in Business Information Technology 05/2022 
 
 ## Social Links
 - ### 🌎 [LinkedIn](https://www.linkedin.com/in/petervasilopoulos/)
