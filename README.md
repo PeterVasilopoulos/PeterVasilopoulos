@@ -75,10 +75,10 @@ Graduated from Vigrinia Tech with a Bachelor of Science in Business Information 
 # Languages and Tools
 
 ### 🔠 Languages:
-Python, Java, JavaScript, HTML, CSS, SQL
+Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
 
 ### 📚 Frameworks/Libraries:
-Flask, Jinja2, jQuery, React, Express, Bootstrap, Spring Boot
+React, Flask, Jinja2, jQuery, Express, Bootstrap, Spring Boot
 
 ### 🗂️ Databases:
 MySQL, MongoDB
