@@ -2,6 +2,7 @@
 
 # Peter Vasilopoulos
 ### Software Engineer and Full-Stack Developer <br>
+Certified ScrumMaster - Scrum Alliance Certification 06/2024 <br>
 Graduated from CodingDojo's Online Full-Stack Software Development Program 06/2023 <br>
 Graduated from Virginia Tech with a Bachelor of Science in Business Information Technology 05/2022 
 
@@ -25,6 +26,23 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 - used TypeScript and React to build a user-friendly front-end
 - reduced prop drilling and data caching problems by utilizing Redux Toolkit and RTK Query for state management and data fetching
 - developed a RESTful API using C# for delivery of JSON data to the webapp
+
+<div align="center" width="50">
+
+### Home Page
+
+<img src="https://github.com/user-attachments/assets/f45b219f-313c-444d-bbc7-63bd1c5dab8c" width ="40%">
+
+### Add Country
+
+<img src="https://github.com/user-attachments/assets/e90db27b-de25-4f19-b042-5ce6d85819e3" width="40%">
+
+### Add State
+
+<img src="https://github.com/user-attachments/assets/2975862f-4cb9-4607-8b0d-95b925d2052b" width="40%">
+
+  
+</div>
 
 ## The Film Repository &ensp; ([Videos](https://www.youtube.com/playlist?list=PLjO3X1MvwUsDc1pR3fzRG-FKQZNiPS24j) | [Medium](https://medium.com/@petervasilopoulos/the-film-repository-ecb131fe017d) | [Repo](https://github.com/PeterVasilopoulos/Movie_Review_Site))
 #### &ensp; 🧰 (JavaScript, React, MongoDB, Node.js, Express)
