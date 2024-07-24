@@ -19,7 +19,7 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 ---
 
 # Projects
-## States and Countries $ensp; ([Repo](https://github.com/PeterVasilopoulos/states-countries))
+## States and Countries &ensp; ([Repo](https://github.com/PeterVasilopoulos/states-countries))
 #### &ensp; 🧰 (TypeScript, React, C#, .NET, MSSQL, Docker)
 &ensp; Collection of States and Countries that users can select from and add to.
 - used TypeScript and React to build a user-friendly front-end
