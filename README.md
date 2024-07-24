@@ -19,6 +19,13 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 ---
 
 # Projects
+## States and Countries $ensp; ([Repo](https://github.com/PeterVasilopoulos/states-countries))
+#### &ensp; 🧰 (TypeScript, React, C#, .NET, MSSQL, Docker)
+&ensp; Collection of States and Countries that users can select from and add to.
+- used TypeScript and React to build a user-friendly front-end
+- reduced prop drilling and data caching problems by utilizing Redux Toolkit and RTK Query for state management and data fetching
+- developed a RESTful API using C# for delivery of JSON data to the webapp
+
 ## The Film Repository &ensp; ([Videos](https://www.youtube.com/playlist?list=PLjO3X1MvwUsDc1pR3fzRG-FKQZNiPS24j) | [Medium](https://medium.com/@petervasilopoulos/the-film-repository-ecb131fe017d) | [Repo](https://github.com/PeterVasilopoulos/Movie_Review_Site))
 #### &ensp; 🧰 (JavaScript, React, MongoDB, Node.js, Express)
 &ensp; Movie database site that allows users to search for movies, write reviews, and view other user's reviews.
