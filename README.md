@@ -59,7 +59,7 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 </div>
 
 ## The Book Club
-#### &ensp; 🧰 (Java, Spring Boot, MySQL)
+#### &ensp; 🧰 (Java, Spring, MySQL)
 &ensp; A site for users to log the books they read and give thoughts on the book as well as see other's thoughts.
 - designed the wireframe and user stories using Balsamiq and GitHub Projects respectively for efficient site development
 - capitalized on Bootstrap to quickly spin up an aesthetic front-end and user friendly front-end
@@ -75,16 +75,16 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 # Languages and Tools
 
 ### 🔠 Languages:
-Python, Java, JavaScript, TypeScript, HTML, CSS, SQL
+Python, Java, JavaScript, TypeScript, C#, HTML, CSS, SQL
 
 ### 📚 Frameworks/Libraries:
-React, Flask, Jinja2, jQuery, Express, Bootstrap, Spring Boot
+React, Flask, .NET, jQuery, Express, Bootstrap, Spring, Jinja2
 
 ### 🗂️ Databases:
 MySQL, MongoDB
 
 ### 🛠️ Tools:
-AJAX, Microsoft Azure, Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP MySQL Workbench, Git, GitHub, Microsoft Excel, Microsoft Powerpoint, Agile Development, Object Oriented Programming, Node.js, AWS, PHP, JSON, Mongoose, Trello, Postman, Jira
+Microsoft Azure, Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP, MySQL Workbench, Git, GitHub, Microsoft Excel, Microsoft Powerpoint, Agile Development, Object Oriented Programming, Node.js, AWS, PHP, JSON, Mongoose, Trello, Postman, Jira, Scrum, REST API, Redux Toolkit, RTK Query
 
 <br>
 
