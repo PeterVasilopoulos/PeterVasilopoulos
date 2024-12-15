@@ -68,7 +68,7 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 #### &ensp; 🧰 (Python, Flask, MySQL)
 &ensp; Movie quote guessing game where a random movie quote is generated and the user has to guess the movie it's from.
 - streamlined the movie guessing experience for users by performing string sanitization
-- used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api (it's not a very fast api)
+- used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api
 
 <div align="center" width="50">
 
