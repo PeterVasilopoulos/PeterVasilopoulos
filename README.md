@@ -100,7 +100,7 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 # Languages and Tools
 
 ### 🔠 Languages:
-Python, Java, JavaScript, TypeScript, C#, HTML, CSS, SQL
+JavaScript, TypeScript, Python, Java, C#, HTML, CSS, SQL
 
 ### 📚 Frameworks/Libraries:
 React, Flask, .NET, jQuery, Express, Bootstrap, Spring, Jinja2
