@@ -2,7 +2,7 @@
 
 # Peter Vasilopoulos
 ### Software Engineer and Full-Stack Developer <br>
-Certified ScrumMaster - Scrum Alliance Certification 06/2024 <br>
+Certified ScrumMaster - Scrum Alliance Certification 06/2024 <br> 
 Graduated from CodingDojo's Online Full-Stack Software Development Program 06/2023 <br>
 Graduated from Virginia Tech with a Bachelor of Science in Business Information Technology 05/2022 
 
