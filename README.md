@@ -109,7 +109,7 @@ React, Flask, .NET, jQuery, Express, Bootstrap, Spring, Jinja2
 MySQL, MongoDB
 
 ### 🛠️ Tools:
-Microsoft Azure, Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP, MySQL Workbench, Git, GitHub, Microsoft Excel, Microsoft Powerpoint, Agile Development, Object Oriented Programming, Node.js, AWS, PHP, JSON, Mongoose, Trello, Postman, Jira, Scrum, REST API, Redux Toolkit, RTK Query 
+Microsoft Azure, Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse, Spring Tool Suite, MAMP, WAMP, MySQL Workbench, Git, GitHub, Microsoft Excel, Microsoft Powerpoint, Agile Development, Object Oriented Programming, Node.js, AWS, PHP, JSON, Mongoose, Trello, Postman, Jira, Scrum, REST API, Redux Toolkit, RTK Query
 
 <br>
 
