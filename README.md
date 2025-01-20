@@ -92,7 +92,7 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
     - add books to their bookshelf
     - write reviews on books
     - edit and delete individual reviews
-    - view other user's books and reviews
+    - view other user's books and reviews 
 
 
 ---
