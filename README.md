@@ -67,7 +67,7 @@ Graduated from Virginia Tech with a Bachelor of Science in Business Information 
 ## Don't Quote Me On This &ensp; ([Video](https://www.youtube.com/watch?v=ngi94hN5LOU) | [Medium](https://medium.com/@petervasilopoulos/dont-quote-me-on-this-python-project-15324eb3e803)) 
 #### &ensp; 🧰 (Python, Flask, MySQL)
 &ensp; Movie quote guessing game where a random movie quote is generated and the user has to guess the movie it's from.
-- streamlined the movie guessing experience for users by performing string sanitization 
+- streamlined the movie guessing experience for users by performing string sanitization
 - used an asynchronous fetch request to allow the rest of the page to load while the quote is being pulled from the api
 
 <div align="center" width="50">
